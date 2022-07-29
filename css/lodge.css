@@ -1,0 +1,44 @@
+.maintext {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FFFFFF;
+}
+.headings {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: bold;
+	color: #99CC00;
+}
+a:link {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a:hover {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	color: #99CC00;
+	text-decoration: none;
+}
+a:visited {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FFCC00;
+	text-decoration: underline;
+}
+body {
+	background-color: #000000;
+	margin: 0px;
+	padding: 0px;
+	background-image: url(../images/bg.gif);
+}
